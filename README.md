@@ -8,7 +8,7 @@ Getting Started
 
 To get started with the application, follow these steps:
 
-`Note: This assumes that you already have a PostgreSQL server running locally with a user and database that you can use. If you don't have one set up, you'll need to install PostgreSQL and create a new user and database before running this command.`
+`Note: This assumes that you already have a PostgreSQL server running locally with a user and database that you can use. If you don't have one set up, you'll need to install PostgreSQL and create a new user and database before running these commands.`
 
 1.  Clone the repository to your local machine: `git clone https://github.com/PIndustries/singularity.git`
 2.  Install dependencies with `mix deps.get`

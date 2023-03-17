@@ -22,6 +22,8 @@ You can also run this application using Docker. Follow the steps below to build 
 ### Build
 
 `docker build -t p_industries_singularity .`
+
+### Run
 `docker run -p 4000:4000 -e DATABASE_URL=<your_database_url> p_industries_singularity`
 
 Installing Elixir

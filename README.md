@@ -1,7 +1,7 @@
 P.Industries Singularity
 =======================
 
-Welcome to PIndustries Singularity, a simple ticket tracking system built with Phoenix LiveView and Elixir!
+Welcome to P.Industries Singularity, a simple ticket tracking system built with Phoenix LiveView and Elixir!
 
 Note: This project is still in its early stages of development and is not yet production-ready. Use at your own risk.
 
